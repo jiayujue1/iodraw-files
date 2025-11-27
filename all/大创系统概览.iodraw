@@ -26,7 +26,7 @@
           <mxGeometry x="130" y="1080" width="600" height="460" as="geometry" />
         </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-105" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;上位处理模块&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="410" y="220" width="170" height="80" as="geometry" />
+          <mxGeometry x="465" y="210" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-106" value="按键输入" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="517.5" y="70" width="245" height="60" as="geometry" />
@@ -67,11 +67,6 @@
             <Array as="points">
               <mxPoint x="760" y="580" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GbfNtZ7nqeN1hdfNI4J9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="3Zo8zTJ2UkU_YRwO9dJQ-109">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-109" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;电源管理模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;perimeterSpacing=0;strokeWidth=3;" parent="1" vertex="1">
