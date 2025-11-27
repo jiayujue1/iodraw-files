@@ -69,31 +69,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-16" value="开心" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="400" width="100" height="40" as="geometry" />
+          <mxGeometry x="190" y="410" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-17" target="Ulcc-1JDXXpvx0DCYuSE-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-17" value="悲伤" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="500" width="100" height="40" as="geometry" />
+          <mxGeometry x="190" y="490" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-23" target="Ulcc-1JDXXpvx0DCYuSE-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-23" value="播放欢快音乐，调整灯光为明亮" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="400" width="170" height="40" as="geometry" />
+          <mxGeometry x="340" y="410" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-24" target="Ulcc-1JDXXpvx0DCYuSE-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-24" value="播放舒缓音乐，调整灯光为柔和" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="480" width="170" height="40" as="geometry" />
+          <mxGeometry x="340" y="490" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-30" target="Ulcc-1JDXXpvx0DCYuSE-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-30" value="灯光与音乐控制" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="575" y="400" width="150" height="40" as="geometry" />
+          <mxGeometry x="575" y="410" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-34" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="480" width="100" height="40" as="geometry" />
