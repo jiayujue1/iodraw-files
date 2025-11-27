@@ -86,7 +86,7 @@
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-18" value="愤怒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="500" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-23" target="Ulcc-1JDXXpvx0DCYuSE-30">
+        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-23" target="Ulcc-1JDXXpvx0DCYuSE-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-23" value="播放欢快音乐，调整灯光为明亮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -97,6 +97,9 @@
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-24" value="播放舒缓音乐，调整灯光为柔和" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="450" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-25" target="Ulcc-1JDXXpvx0DCYuSE-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-25" value="播放激昂音乐，调整灯光为红色" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="500" width="170" height="40" as="geometry" />
