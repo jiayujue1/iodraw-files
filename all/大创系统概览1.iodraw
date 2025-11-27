@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="842" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,7 +167,7 @@
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-141" value="模拟输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
           <mxGeometry x="146.9705882352941" y="655" width="123.76470588235293" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-142" value="模拟输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
+        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-142" value="模拟输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
           <mxGeometry x="425.44117647058823" y="655" width="123.76470588235293" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-143" value="模拟输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
