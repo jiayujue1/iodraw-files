@@ -76,7 +76,7 @@
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-14" value="情绪类别与控制命令判断" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-30" y="430" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-16" target="Ulcc-1JDXXpvx0DCYuSE-14">
+        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-16" target="Ulcc-1JDXXpvx0DCYuSE-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-16" value="开心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
