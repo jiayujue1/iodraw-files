@@ -7,7 +7,7 @@
         <mxCell id="2" value="&lt;p style=&quot;margin: 4px 0px 0px; font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;摄像头采集模块&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;container=0;" parent="1" vertex="1">
           <mxGeometry x="212.4411764705882" y="255" width="263" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="用户/场景" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=16;container=0;" parent="1" vertex="1">
+        <mxCell id="4" value="用户/场景" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=18;container=0;" parent="1" vertex="1">
           <mxGeometry x="258.85294117647055" y="105" width="139.23529411764704" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5" value="STM32主控控制模块" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC;fontSize=22;container=0;" parent="1" vertex="1">
@@ -23,12 +23,12 @@
           <mxGeometry x="831.2647058823527" y="775" width="139.23529411764704" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000099;strokeWidth=5;container=0;" parent="1" vertex="1">
-          <mxGeometry x="135.08823529411762" y="215" width="928.235294117647" height="460" as="geometry" />
+          <mxGeometry x="310.99823529411765" y="1140" width="928.235294117647" height="460" as="geometry" />
         </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-105" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;上位处理模块&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;container=0;" parent="1" vertex="1">
           <mxGeometry x="614.6764705882352" y="255" width="263" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-106" value="按键输入" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=19;container=0;" parent="1" vertex="1">
+        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-106" value="按键输入" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=18;container=0;" parent="1" vertex="1">
           <mxGeometry x="885.4117647058822" y="105" width="139.23529411764704" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-107" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;span&gt;音乐播放模块&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;container=0;" parent="1" vertex="1">
