@@ -149,10 +149,10 @@
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-135" value="数据传输&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22140%22%20y%3D%22150%22%20width%3D%2280%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
           <mxGeometry x="425.44117647058823" y="175" width="123.76470588235293" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-136" value="数据处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
+        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-136" value="数据处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
           <mxGeometry x="595.6176470588235" y="275" width="123.76470588235293" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-137" value="按键采集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
+        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-137" value="按键采集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
           <mxGeometry x="773.5294117647057" y="275" width="123.76470588235293" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-138" value="控制输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
@@ -182,10 +182,10 @@
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-146" value="供电" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
           <mxGeometry x="997.8529411764704" y="495" width="123.76470588235293" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-147" value="供电" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
+        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-147" value="供电" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
           <mxGeometry x="997.8529411764704" y="155" width="123.76470588235293" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-148" value="供电" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
+        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-148" value="供电" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="lMKBGRVnBGVIkXxPjSL1-16" vertex="1">
           <mxGeometry x="997.8529411764704" y="75" width="123.76470588235293" height="30" as="geometry" />
         </mxCell>
       </root>
