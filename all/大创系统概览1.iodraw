@@ -16,10 +16,10 @@
         <mxCell id="9" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;氛围灯控制模块&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;container=0;" parent="1" vertex="1">
           <mxGeometry x="746.1764705882351" y="575" width="278.4705882352941" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="功放+扬声器" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=14;container=0;" parent="1" vertex="1">
+        <mxCell id="13" value="功放+扬声器" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=18;container=0;" parent="1" vertex="1">
           <mxGeometry x="274.32352941176475" y="775" width="139.23529411764704" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="RGB灯带" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=17;container=0;" parent="1" vertex="1">
+        <mxCell id="15" value="RGB灯带" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=18;container=0;" parent="1" vertex="1">
           <mxGeometry x="831.2647058823527" y="775" width="139.23529411764704" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000099;strokeWidth=5;container=0;" parent="1" vertex="1">
@@ -28,13 +28,13 @@
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-105" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;上位处理模块&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;container=0;" parent="1" vertex="1">
           <mxGeometry x="614.6764705882352" y="255" width="263" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-106" value="按键输入" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=16;container=0;" parent="1" vertex="1">
+        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-106" value="按键输入" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=19;container=0;" parent="1" vertex="1">
           <mxGeometry x="885.4117647058822" y="105" width="139.23529411764704" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-107" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;span&gt;音乐播放模块&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC;container=0;" parent="1" vertex="1">
           <mxGeometry x="220.17647058823525" y="575" width="278.4705882352941" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-108" value="OLED显示" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=14;container=0;" parent="1" vertex="1">
+        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-108" value="OLED显示" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;fontSize=18;container=0;" parent="1" vertex="1">
           <mxGeometry x="561.3029411764705" y="775" width="139.23529411764704" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3Zo8zTJ2UkU_YRwO9dJQ-109" target="2" edge="1">
