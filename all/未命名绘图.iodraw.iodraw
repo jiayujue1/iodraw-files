@@ -105,7 +105,7 @@
           <mxGeometry x="340" y="500" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-30" value="灯光与音乐控制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="450" width="150" height="40" as="geometry" />
+          <mxGeometry x="575" y="400" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
