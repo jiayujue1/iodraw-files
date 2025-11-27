@@ -39,13 +39,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-4" value="是" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="340" width="100" height="40" as="geometry" />
+          <mxGeometry x="310" y="340" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-5" target="Ulcc-1JDXXpvx0DCYuSE-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-5" value="否" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="270" width="100" height="40" as="geometry" />
+          <mxGeometry x="310" y="270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-10" value="重新采集数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-5" y="270" width="100" height="40" as="geometry" />
@@ -62,8 +62,10 @@
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-14" target="Ulcc-1JDXXpvx0DCYuSE-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-14" target="Ulcc-1JDXXpvx0DCYuSE-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="189.99999999999977" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-14" value="情绪类别与控制命令判断" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-30" y="430" width="150" height="80" as="geometry" />
@@ -80,11 +82,11 @@
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-17" value="悲伤" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="450" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-18" target="Ulcc-1JDXXpvx0DCYuSE-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-18" value="愤怒" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="500" width="100" height="40" as="geometry" />
+        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="289.9999999999998" y="520" as="sourcePoint" />
+            <mxPoint x="339.9999999999998" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-23" target="Ulcc-1JDXXpvx0DCYuSE-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -98,11 +100,10 @@
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-24" value="播放舒缓音乐，调整灯光为柔和" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="450" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-25" target="Ulcc-1JDXXpvx0DCYuSE-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-25" value="播放吊毛音乐，调整灯光为红色" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="500" width="170" height="40" as="geometry" />
+        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Ulcc-1JDXXpvx0DCYuSE-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="520" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-30" target="Ulcc-1JDXXpvx0DCYuSE-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
