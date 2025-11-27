@@ -185,9 +185,6 @@
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-148" value="供电" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="690" y="120" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GbfNtZ7nqeN1hdfNI4J9-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5" y="508" width="50" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
