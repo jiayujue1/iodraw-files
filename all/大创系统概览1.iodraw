@@ -155,9 +155,6 @@
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-138" value="控制输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;container=0;" parent="1" vertex="1">
           <mxGeometry x="374.8823529411764" y="525" width="123.76470588235293" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-139" value="显示输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;container=0;" parent="1" vertex="1">
-          <mxGeometry x="645.6176470588235" y="525" width="123.76470588235293" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-140" value="控制输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;container=0;" parent="1" vertex="1">
           <mxGeometry x="908.6176470588234" y="525" width="123.76470588235293" height="30" as="geometry" />
         </mxCell>
