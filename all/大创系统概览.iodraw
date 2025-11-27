@@ -69,6 +69,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="GbfNtZ7nqeN1hdfNI4J9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="3Zo8zTJ2UkU_YRwO9dJQ-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-109" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;电源管理模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;perimeterSpacing=0;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="1110" y="70" width="120" height="770" as="geometry" />
         </mxCell>
@@ -127,7 +132,7 @@
             <mxPoint x="490" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="3Zo8zTJ2UkU_YRwO9dJQ-109" target="3Zo8zTJ2UkU_YRwO9dJQ-105" edge="1">
+        <mxCell id="3Zo8zTJ2UkU_YRwO9dJQ-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.008;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3Zo8zTJ2UkU_YRwO9dJQ-109" target="3Zo8zTJ2UkU_YRwO9dJQ-105" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
