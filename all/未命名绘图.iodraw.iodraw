@@ -55,7 +55,7 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-28" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;音乐播放控制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="911.588785046729" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-39" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="1007.196261682243" width="570" height="69.53271028037382" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-35" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;用户体验优化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-36" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;OLED&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;&lt;br/&gt;mso-bidi-font-size:11.0pt;font-family:等线;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;显示屏&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="1015.8878504672897" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-47" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="1111.495327102804" width="570" height="69.53271028037382" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-43" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;系统调试与优化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-45" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;应用效果评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="1120.1869158878505" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-57" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-57" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="210" y="589.9985981308411" width="66.6355140186916" height="588.1308411214956" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-4" value="系统需求分析与规划" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="a2-qY36gsOOmps65qyyT-57">
