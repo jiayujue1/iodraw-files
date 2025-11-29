@@ -22,7 +22,7 @@
             <mxPoint x="615" y="688.5046728971962" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-15" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="694.2990654205607" width="570" height="69.53271028037382" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-11" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;深度学习模型训练&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-13" value="&lt;p class=&quot;MsoNormal&quot;&gt;情绪分类与映射&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="702.9906542056075" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-23" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="798.5981308411215" width="570" height="69.53271028037382" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-19" value="性能需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
@@ -46,7 +46,7 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-21" value="硬件需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="807.2897196261682" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-31" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="902.8971962616822" width="570" height="69.53271028037382" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-27" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;灯光效果控制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
