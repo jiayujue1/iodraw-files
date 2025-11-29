@@ -10,7 +10,7 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-2" value="功能需求:明确情绪识别与环境控制系统的功能,并设计对应的模块接口。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="350" y="155" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-3" value="硬件需求:确定所需硬件如STM32开发板、摄像头、音频模块、RGB灯带、OLED显示屏等。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-3" value="硬件需求:确定所需硬件如STM32开发板、摄像头、音频模块、RGB灯带等。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="760" y="155" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
