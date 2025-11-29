@@ -76,57 +76,6 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-45" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;应用效果评估&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="1120.1869158878505" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-57" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210" y="589.9985981308411" width="66.6355140186916" height="588.1308411214956" as="geometry" />
-        </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-4" value="系统需求分析与规划" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="a2-qY36gsOOmps65qyyT-57">
-          <mxGeometry width="66.63551401869158" height="66.63551401869158" as="geometry" />
-        </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="a2-qY36gsOOmps65qyyT-57" source="a2-qY36gsOOmps65qyyT-4" target="a2-qY36gsOOmps65qyyT-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="57" y="97.0560747663551" as="sourcePoint" />
-            <mxPoint x="58" y="97.0560747663551" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-14" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;情绪识别模块开发&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="a2-qY36gsOOmps65qyyT-57">
-          <mxGeometry y="104.29906542056074" width="66.63551401869158" height="66.63551401869158" as="geometry" />
-        </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="a2-qY36gsOOmps65qyyT-57" source="a2-qY36gsOOmps65qyyT-14" target="a2-qY36gsOOmps65qyyT-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="57" y="201.35514018691583" as="sourcePoint" />
-            <mxPoint x="58" y="201.35514018691583" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-22" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;嵌入式控制模块设计&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="a2-qY36gsOOmps65qyyT-57">
-          <mxGeometry y="208.59813084112147" width="66.63551401869158" height="66.63551401869158" as="geometry" />
-        </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="a2-qY36gsOOmps65qyyT-57" source="a2-qY36gsOOmps65qyyT-22" target="a2-qY36gsOOmps65qyyT-30">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="57" y="305.65420560747657" as="sourcePoint" />
-            <mxPoint x="58" y="305.65420560747657" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-30" value="&lt;p class=&quot;MsoNormal&quot;&gt;音乐播放与灯光控制模块开发&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="a2-qY36gsOOmps65qyyT-57">
-          <mxGeometry y="314.34719626168226" width="66.63551401869158" height="66.63551401869158" as="geometry" />
-        </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="a2-qY36gsOOmps65qyyT-57" source="a2-qY36gsOOmps65qyyT-30" target="a2-qY36gsOOmps65qyyT-38">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="57" y="409.9532710280373" as="sourcePoint" />
-            <mxPoint x="58" y="409.9532710280373" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-38" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;外部显示与用户交互设计&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="a2-qY36gsOOmps65qyyT-57">
-          <mxGeometry y="417.19626168224295" width="66.63551401869158" height="66.63551401869158" as="geometry" />
-        </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="a2-qY36gsOOmps65qyyT-57" source="a2-qY36gsOOmps65qyyT-38" target="a2-qY36gsOOmps65qyyT-46">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="57" y="514.2523364485982" as="sourcePoint" />
-            <mxPoint x="58" y="514.2523364485982" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-46" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;整机集成与系统测试&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="a2-qY36gsOOmps65qyyT-57">
-          <mxGeometry y="521.495327102804" width="66.63551401869158" height="66.63551401869158" as="geometry" />
-        </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endWidth=184.34782608695653;endSize=5.556521739130435;width=40;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="614.57" y="763.83" as="sourcePoint" />
@@ -150,6 +99,54 @@
             <mxPoint x="614.57" y="1076.73" as="sourcePoint" />
             <mxPoint x="614.57" y="1105.234672897196" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-4" value="系统需求分析与规划" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="589.9985981308411" width="66.63551401869158" height="66.63551401869158" as="geometry" />
+        </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2-qY36gsOOmps65qyyT-4" target="a2-qY36gsOOmps65qyyT-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267" y="687.0546728971962" as="sourcePoint" />
+            <mxPoint x="268" y="687.0546728971962" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-14" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;情绪识别模块开发&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="694.2976635514018" width="66.63551401869158" height="66.63551401869158" as="geometry" />
+        </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2-qY36gsOOmps65qyyT-14" target="a2-qY36gsOOmps65qyyT-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267" y="791.3537383177569" as="sourcePoint" />
+            <mxPoint x="268" y="791.3537383177569" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-22" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;嵌入式控制模块设计&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="798.5967289719625" width="66.63551401869158" height="66.63551401869158" as="geometry" />
+        </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2-qY36gsOOmps65qyyT-22" target="a2-qY36gsOOmps65qyyT-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267" y="895.6528037383176" as="sourcePoint" />
+            <mxPoint x="268" y="895.6528037383176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-30" value="&lt;p class=&quot;MsoNormal&quot;&gt;音乐播放与灯光控制模块开发&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="904.3457943925233" width="66.63551401869158" height="66.63551401869158" as="geometry" />
+        </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2-qY36gsOOmps65qyyT-30" target="a2-qY36gsOOmps65qyyT-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267" y="999.9518691588784" as="sourcePoint" />
+            <mxPoint x="268" y="999.9518691588784" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-38" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;外部显示与用户交互设计&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1007.194859813084" width="66.63551401869158" height="66.63551401869158" as="geometry" />
+        </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2-qY36gsOOmps65qyyT-38" target="a2-qY36gsOOmps65qyyT-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267" y="1104.2509345794392" as="sourcePoint" />
+            <mxPoint x="268" y="1104.2509345794392" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-46" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;整机集成与系统测试&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1111.493925233645" width="66.63551401869158" height="66.63551401869158" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
