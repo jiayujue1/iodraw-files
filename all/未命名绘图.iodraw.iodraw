@@ -16,7 +16,7 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-4" value="系统需求分析与规划" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="142.5" width="115" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
