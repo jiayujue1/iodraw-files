@@ -101,7 +101,7 @@
           <mxGeometry x="750" y="1120.1869158878505" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-57" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="591.4485981308411" width="66.6355140186916" height="588.1308411214956" as="geometry" />
+          <mxGeometry x="210" y="589.9985981308411" width="66.6355140186916" height="588.1308411214956" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-4" value="系统需求分析与规划" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;container=0;" vertex="1" parent="a2-qY36gsOOmps65qyyT-57">
           <mxGeometry width="66.63551401869158" height="66.63551401869158" as="geometry" />
