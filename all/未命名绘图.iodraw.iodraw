@@ -8,13 +8,13 @@
           <mxGeometry x="560" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-2" value="功能需求**：明确情绪识别与环境控制系统的功能，如情绪识别、音乐播放、灯光控制等，并设计对应的模块接口。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="140" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="200" y="150" width="100" height="100" as="geometry" />
+          <mxGeometry x="190" y="140" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
