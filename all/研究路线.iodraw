@@ -40,7 +40,7 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-23" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
           <mxGeometry x="120" y="208.5995327102804" width="570" height="69.53271028037382" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-19" value="性能需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-19" value="串口通信协议" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
           <mxGeometry x="340" y="217.29112149532716" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-20" value="STM32开发" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
