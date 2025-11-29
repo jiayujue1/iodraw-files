@@ -17,7 +17,13 @@
           <mxGeometry x="150" y="142.5" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="130" width="570" height="170" as="geometry" />
+          <mxGeometry x="330" y="140" width="570" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="450" as="sourcePoint" />
+            <mxPoint x="610" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
