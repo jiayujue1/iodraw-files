@@ -43,7 +43,7 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-19" value="性能需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
           <mxGeometry x="340" y="217.29112149532716" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-20" value="功能需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-20" value="STM32开发" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
           <mxGeometry x="140" y="217.29112149532716" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-21" value="硬件需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
