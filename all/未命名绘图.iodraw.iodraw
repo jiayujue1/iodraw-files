@@ -11,9 +11,9 @@
           <mxGeometry x="350" y="155" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-3" value="硬件需求:确定所需硬件如STM32开发板、摄像头、音频模块、RGB灯带等。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="760" y="155" width="130" height="90" as="geometry" />
+          <mxGeometry x="750" y="155" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-4" value="系统需求分析与规划" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-4" value="系统需求分析与规划" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="190" y="140" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
