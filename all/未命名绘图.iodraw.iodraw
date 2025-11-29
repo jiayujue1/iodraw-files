@@ -16,7 +16,7 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-3" value="硬件需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="598.6915887850467" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endWidth=225;endSize=8.56;width=92;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="a2-qY36gsOOmps65qyyT-6">
+        <mxCell id="a2-qY36gsOOmps65qyyT-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endWidth=225;endSize=5.756521739130435;width=40;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="a2-qY36gsOOmps65qyyT-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="769.626168224299" as="sourcePoint" />
             <mxPoint x="615" y="688.5046728971962" as="targetPoint" />
