@@ -46,7 +46,7 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-11" value="性能需求:分析系统响应时间、稳定性和精度要求,确保系统的可靠运行。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="a2-qY36gsOOmps65qyyT-10">
           <mxGeometry x="400" y="15" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-12" value="功能需求:明确情绪识别与环境控制系统的功能,并设计对应的模块接口。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="a2-qY36gsOOmps65qyyT-10">
+        <mxCell id="a2-qY36gsOOmps65qyyT-12" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:11.0pt;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据采集与预处理：采集并预处理人脸图像数据&lt;span lang=&quot;EN-US&quot;&gt;,&lt;/span&gt;确保图像质量适合后续情绪识别。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="a2-qY36gsOOmps65qyyT-10">
           <mxGeometry x="200" y="15" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-13" value="硬件需求:确定所需硬件如STM32开发板、摄像头、音频模块、RGB灯带等。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="a2-qY36gsOOmps65qyyT-10">
@@ -160,6 +160,9 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-42" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="150" y="1020" width="750" height="170" as="geometry" />
         </mxCell>
+        <mxCell id="a2-qY36gsOOmps65qyyT-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="a2-qY36gsOOmps65qyyT-42">
+          <mxGeometry x="180" width="570" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-43" value="性能需求:分析系统响应时间、稳定性和精度要求,确保系统的可靠运行。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="a2-qY36gsOOmps65qyyT-42">
           <mxGeometry x="400" y="15" width="130" height="90" as="geometry" />
         </mxCell>
@@ -171,9 +174,6 @@
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-46" value="系统需求分析与规划" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="a2-qY36gsOOmps65qyyT-42">
           <mxGeometry y="2.5" width="115" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="a2-qY36gsOOmps65qyyT-42">
-          <mxGeometry x="180" width="570" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="a2-qY36gsOOmps65qyyT-42" source="a2-qY36gsOOmps65qyyT-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
