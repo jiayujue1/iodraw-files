@@ -46,7 +46,7 @@
         <mxCell id="a2-qY36gsOOmps65qyyT-20" value="STM32开发" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
           <mxGeometry x="140" y="217.29112149532716" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-21" value="硬件需求" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-21" value="系统调试与优化" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
           <mxGeometry x="540" y="217.29112149532716" width="130" height="52.14953271028036" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-31" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
@@ -103,7 +103,7 @@
             <mxPoint x="404.57000000000005" y="515.236074766355" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2-qY36gsOOmps65qyyT-4" value="系统需求分析与规划" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
+        <mxCell id="a2-qY36gsOOmps65qyyT-4" value="系统需求分析与规划" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;container=0;" parent="4AxziBTKBlPc_gDhKTzH-1" vertex="1">
           <mxGeometry width="66.63551401869158" height="66.63551401869158" as="geometry" />
         </mxCell>
         <mxCell id="a2-qY36gsOOmps65qyyT-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="4AxziBTKBlPc_gDhKTzH-1" source="a2-qY36gsOOmps65qyyT-4" target="a2-qY36gsOOmps65qyyT-14" edge="1">
