@@ -28,6 +28,9 @@
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-10" value="重新采集数据" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="330" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="GRChKsdhXEHIWoxh1iZk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-12" target="Ulcc-1JDXXpvx0DCYuSE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-12" value="情绪类型识别" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="470" y="400" width="100" height="40" as="geometry" />
         </mxCell>
@@ -35,16 +38,16 @@
           <mxGeometry x="445" y="480" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-16" value="开心" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="570" y="580" width="100" height="40" as="geometry" />
+          <mxGeometry x="740" y="580" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-17" value="悲伤" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="370" y="580" width="100" height="40" as="geometry" />
+          <mxGeometry x="210" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-23" value="播放欢快音乐，调整灯光为明亮" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="535" y="660" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-24" value="播放舒缓音乐，调整灯光为柔和" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="335" y="660" width="170" height="40" as="geometry" />
+          <mxGeometry x="340" y="610" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-30" value="灯光与音乐控制" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="445" y="740" width="150" height="40" as="geometry" />
