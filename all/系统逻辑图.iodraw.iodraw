@@ -37,12 +37,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ulcc-1JDXXpvx0DCYuSE-14" value="情绪类别判断" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="295" y="-420" width="150" height="80" as="geometry" />
+          <mxGeometry x="320" y="-420" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GRChKsdhXEHIWoxh1iZk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-23" target="Ulcc-1JDXXpvx0DCYuSE-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-23" value="播放欢快音乐，调整灯光为明亮" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ulcc-1JDXXpvx0DCYuSE-23" value="播放欢快音乐，灯光为明亮" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="385" y="-310" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GRChKsdhXEHIWoxh1iZk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ulcc-1JDXXpvx0DCYuSE-24" target="Ulcc-1JDXXpvx0DCYuSE-30" edge="1">
