@@ -78,8 +78,8 @@
         <mxCell id="GRChKsdhXEHIWoxh1iZk-22" value="悲伤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="-370" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d1DrX93tRvcY2osjbxEe-2" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="-520" width="60" height="30" as="geometry" />
+        <mxCell id="d1DrX93tRvcY2osjbxEe-2" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="-640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
