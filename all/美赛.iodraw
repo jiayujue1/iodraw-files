@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3389" dy="2323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2695" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -55,16 +55,13 @@
           <mxGeometry width="400" height="369.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-2" value="约束反演" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" parent="aqwzPy4LWDTmCw7V93AV-12" vertex="1">
-          <mxGeometry y="3.22" width="400" height="54.41176470588235" as="geometry" />
+          <mxGeometry width="400" height="54.41176470588235" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-3" value="裁判分标准化（Percent 形式排名）" style="rounded=0;whiteSpace=wrap;fillColor=none;align=left;verticalAlign=middle;" parent="aqwzPy4LWDTmCw7V93AV-12" vertex="1">
-          <mxGeometry y="57.63176470588235" width="220" height="54.41176470588235" as="geometry" />
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-3" value="淘汰风险模型" style="rounded=0;whiteSpace=wrap;fillColor=none;align=left;verticalAlign=middle;html=1;textShadow=1;" parent="aqwzPy4LWDTmCw7V93AV-12" vertex="1">
+          <mxGeometry y="54.41176470588235" width="220" height="54.41176470588235" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-4" value="排名合并（Rank 形式排名）" style="rounded=0;whiteSpace=wrap;fillColor=none;html=1;align=left;" parent="aqwzPy4LWDTmCw7V93AV-12" vertex="1">
-          <mxGeometry y="112.0435294117647" width="220" height="54.41176470588235" as="geometry" />
-        </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-5" value="Bottom-2 （第 28 季起合理假设）" style="rounded=1;whiteSpace=wrap;fillColor=none;" parent="aqwzPy4LWDTmCw7V93AV-12" vertex="1">
-          <mxGeometry x="240" y="90.28" width="130" height="65.29411764705881" as="geometry" />
+          <mxGeometry y="108.8235294117647" width="220" height="54.41176470588235" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-7" value="特殊情况" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="aqwzPy4LWDTmCw7V93AV-12" vertex="1">
           <mxGeometry x="275" y="57.632941176470595" width="60" height="32.647058823529406" as="geometry" />
