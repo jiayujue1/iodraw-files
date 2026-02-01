@@ -131,7 +131,7 @@
         <mxCell id="aqwzPy4LWDTmCw7V93AV-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-230" y="-69.64" width="430.35" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-2" value="Constrained Inversion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4B6CC7;fontSize=13;container=0;glass=1;fillStyle=hatch;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-2" value="Constrained Inversion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;container=0;glass=1;fillStyle=solid;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-230" y="-69.64" width="429.7121294466403" height="54.41176470588236" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-3" value="Elimination risk model" style="rounded=0;whiteSpace=wrap;fillColor=none;align=left;verticalAlign=middle;textShadow=1;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
