@@ -4,9 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="K3gMIF98tmqBrhOIvSpG-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#85B9FF;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-550" y="-639.64" width="1620" height="1510" as="geometry" />
-        </mxCell>
         <mxCell id="K3gMIF98tmqBrhOIvSpG-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="-310" width="220" height="140" as="geometry" />
         </mxCell>
@@ -134,7 +131,7 @@
         <mxCell id="aqwzPy4LWDTmCw7V93AV-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-230" y="-69.64" width="430.35" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-2" value="Constrained Inversion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4B6CC7;fontSize=13;container=0;glass=0;fillStyle=auto;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-2" value="Constrained Inversion" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;container=0;glass=0;fillStyle=auto;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-230" y="-69.64" width="429.7121294466403" height="54.41176470588236" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-3" value="Elimination risk model" style="rounded=0;whiteSpace=wrap;fillColor=none;align=left;verticalAlign=middle;textShadow=1;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -181,8 +178,8 @@
         <mxCell id="sWwRbH17ub80MT2hTVKh-4" value="Unified rules : ranking direction, elimination rules, parallel processing" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-210" y="-220.3805824411135" width="380" height="19.999657387580303" as="geometry" />
         </mxCell>
-        <mxCell id="K3gMIF98tmqBrhOIvSpG-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#85B9FF;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-550" y="-650" width="1620" height="1510" as="geometry" />
+        <mxCell id="K3gMIF98tmqBrhOIvSpG-94" value="#85B9FF" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="420" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
