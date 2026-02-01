@@ -8,31 +8,39 @@
           <mxGeometry x="770" y="50" width="315" height="340" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-55" value="" style="group" parent="sWwRbH17ub80MT2hTVKh-57" vertex="1" connectable="0">
-          <mxGeometry x="20" width="280" height="196.15384615384616" as="geometry" />
+          <mxGeometry x="20" width="280" height="310" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-48" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=none;" parent="sWwRbH17ub80MT2hTVKh-55" vertex="1">
-          <mxGeometry width="280" height="196.1538461538462" as="geometry" />
+          <mxGeometry width="280" height="310.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-49" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); margin: 0px !important;&quot;&gt;双通道影响分析&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" parent="sWwRbH17ub80MT2hTVKh-55" vertex="1">
-          <mxGeometry width="280" height="41.60839160839161" as="geometry" />
+          <mxGeometry width="280" height="65.75757575757575" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="sWwRbH17ub80MT2hTVKh-55" source="sWwRbH17ub80MT2hTVKh-51" target="sWwRbH17ub80MT2hTVKh-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-51" value="评委端回归模型" style="rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;whiteSpace=wrap;" parent="sWwRbH17ub80MT2hTVKh-55" vertex="1">
-          <mxGeometry x="19.6" y="53.49230769230769" width="100.80000000000001" height="47.550000000000004" as="geometry" />
+          <mxGeometry x="19.6" y="84.53882352941176" width="100.80000000000001" height="75.14764705882354" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-53" value="评委总分标准化" style="rounded=1;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" parent="sWwRbH17ub80MT2hTVKh-55" vertex="1">
-          <mxGeometry x="16.8" y="124.82307692307694" width="106.4" height="47.550000000000004" as="geometry" />
+          <mxGeometry x="16.8" y="197.2645490196078" width="106.4" height="71.40211764705882" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-54" value="vote_share_est" style="rounded=1;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" parent="sWwRbH17ub80MT2hTVKh-55" vertex="1">
-          <mxGeometry x="156.8" y="124.82517482517484" width="95.2" height="47.55244755244756" as="geometry" />
+          <mxGeometry x="156.8" y="197.27272727272728" width="95.2" height="75.15151515151516" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="sWwRbH17ub80MT2hTVKh-55" source="sWwRbH17ub80MT2hTVKh-56" target="sWwRbH17ub80MT2hTVKh-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-56" value="观众端回归模型 " style="rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;whiteSpace=wrap;html=1;" parent="sWwRbH17ub80MT2hTVKh-55" vertex="1">
-          <mxGeometry x="154.00000000000003" y="53.49230769230769" width="100.80000000000001" height="47.550000000000004" as="geometry" />
+          <mxGeometry x="154.00000000000003" y="84.53882352941176" width="100.80000000000001" height="75.14764705882354" as="geometry" />
+        </mxCell>
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="sWwRbH17ub80MT2hTVKh-55" source="sWwRbH17ub80MT2hTVKh-53" target="sWwRbH17ub80MT2hTVKh-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="sWwRbH17ub80MT2hTVKh-57" source="sWwRbH17ub80MT2hTVKh-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90.05882352941217" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-67" value="" style="group;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="-110" y="430" width="630" height="220" as="geometry" />
