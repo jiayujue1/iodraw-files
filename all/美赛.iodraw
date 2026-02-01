@@ -172,7 +172,7 @@
         <mxCell id="aqwzPy4LWDTmCw7V93AV-22" value="争议选手案例解释" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="-160" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-23" value="评委的最终裁决具有显著影响力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-23" value="bottom-two机制中评委的最终裁决具有显著影响力" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="825" y="-100" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aqwzPy4LWDTmCw7V93AV-25" target="aqwzPy4LWDTmCw7V93AV-27">
