@@ -142,10 +142,13 @@
           <mxGeometry x="-140" y="110" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-4" value="排名合并（Rank 形式排名）" style="rounded=0;whiteSpace=wrap;fillColor=none;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-140" y="170" width="220" height="60" as="geometry" />
+          <mxGeometry x="-140" y="170" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-5" value="Bottom-2 （第 28 季起合理假设）" style="rounded=1;whiteSpace=wrap;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="142.96" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-7" value="特殊情况" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="135" y="112.96000000000001" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
