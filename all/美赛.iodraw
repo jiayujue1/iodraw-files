@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="sWwRbH17ub80MT2hTVKh-57" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="840" y="-10" width="315" height="340" as="geometry" />
+          <mxGeometry x="840" y="-50" width="315" height="340" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-55" value="" style="group" parent="sWwRbH17ub80MT2hTVKh-57" vertex="1" connectable="0">
           <mxGeometry x="20" width="280" height="196.15384615384616" as="geometry" />
@@ -33,9 +33,6 @@
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-56" value="观众端回归模型 " style="rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;whiteSpace=wrap;html=1;" parent="sWwRbH17ub80MT2hTVKh-55" vertex="1">
           <mxGeometry x="154.00000000000003" y="53.49230769230769" width="100.80000000000001" height="47.550000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="sWwRbH17ub80MT2hTVKh-57">
-          <mxGeometry y="231.93" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-67" value="" style="group;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="-110" y="430" width="630" height="220" as="geometry" />
@@ -164,13 +161,16 @@
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="280" as="sourcePoint" />
-            <mxPoint x="700" y="230" as="targetPoint" />
+            <mxPoint x="720" y="-40" as="sourcePoint" />
+            <mxPoint x="770" y="-90" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="700" y="280" />
-              <mxPoint x="650" y="230" />
+              <mxPoint x="770" y="-40" />
+              <mxPoint x="720" y="-90" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-22" value="争议选手案例解释" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="-210" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
