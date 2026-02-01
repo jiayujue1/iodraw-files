@@ -135,8 +135,8 @@
         <mxCell id="aqwzPy4LWDTmCw7V93AV-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-140" y="60" width="400" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="300" width="120" height="60" as="geometry" />
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-2" value="约束反演" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-140" y="60" width="400" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
