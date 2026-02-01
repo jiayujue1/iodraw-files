@@ -68,7 +68,7 @@
         <mxCell id="aqwzPy4LWDTmCw7V93AV-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aqwzPy4LWDTmCw7V93AV-39" target="aqwzPy4LWDTmCw7V93AV-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-39" value="评委端表现" style="rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;whiteSpace=wrap;html=1;textShadow=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-39" value="Judge model" style="rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;whiteSpace=wrap;html=1;textShadow=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="392.6" y="354.7380051150895" width="136.8" height="57.54644501278774" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aqwzPy4LWDTmCw7V93AV-40" target="aqwzPy4LWDTmCw7V93AV-49" edge="1">
@@ -86,7 +86,7 @@
         <mxCell id="aqwzPy4LWDTmCw7V93AV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aqwzPy4LWDTmCw7V93AV-43" target="aqwzPy4LWDTmCw7V93AV-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-43" value="观众端表现" style="rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-43" value="Fan model" style="rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="575" y="354.7380051150895" width="136.8" height="57.54644501278774" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-49" value="&lt;span style=&quot;font-size:11.0pt;mso-bidi-font-size:12.0pt;line-height:115%;&lt;br/&gt;font-family:等线;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;&lt;img src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAgCAMAAAA7dZg3AAAAAXNSR0IArs4c6QAAAF1QTFRFAAAAAAAAAAArAABVACuAAFWqKwAAK1WAK1WqK4DUVQAAVQArVSsAVVWqVarUVar/gCsAgNT/qlUAqlUrqlVVqtT/qv//1IAr1IBV1KqA1P///6pV/9SA//+q///ULQuONwAAAAF0Uk5TAEDm2GYAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAAZdEVYdFNvZnR3YXJlAE1pY3Jvc29mdCBPZmZpY2V/7TVxAAAArklEQVQ4T9WS2xLCIAxEE1S0eGmLl6pA//8zDUOCTpv66pjHbkjObgrwBzV2SLVRSaMj5alKyaHpdXvR4uqmSwPiWp8HHrHRH2XCVpe+UARZldwUlCiK32inNHOK5IoZZdVQx7BheU29VJn5TXFgiopTV0XLcQUeQ4a5OchhPlbxqTzHRc0lHC+p5y/3fuwawmgfR5LMTkI/ozkBSUAZbK/zUNN+4agAl0XlV3/5CxaPCFgwm/DQAAAAAElFTkSuQmCC&quot; height=&quot;21&quot; width=&quot;17&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;labelBackgroundColor=none;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -148,7 +148,7 @@
         <mxCell id="aqwzPy4LWDTmCw7V93AV-2" value="Constrained Inversion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-130.3490909090909" y="-69.64" width="371.3636363636363" height="54.41176470588236" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-3" value="淘汰风险模型" style="rounded=0;whiteSpace=wrap;fillColor=none;align=left;verticalAlign=middle;textShadow=1;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-3" value="Elimination risk model" style="rounded=0;whiteSpace=wrap;fillColor=none;align=left;verticalAlign=middle;textShadow=1;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-130.3490909090909" y="-15.22999999999999" width="371.3636363636363" height="54.41000000000001" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-4" value="约束下的投票反演" style="rounded=0;whiteSpace=wrap;fillColor=none;align=left;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
