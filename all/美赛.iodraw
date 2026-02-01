@@ -154,13 +154,13 @@
         <mxCell id="aqwzPy4LWDTmCw7V93AV-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aqwzPy4LWDTmCw7V93AV-40" target="aqwzPy4LWDTmCw7V93AV-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-40" value="作为技术表现代理" style="rounded=1;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-40" value="As a technical performance agent" style="rounded=1;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="376" y="441.06901823281913" width="170" height="57.548246844319785" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aqwzPy4LWDTmCw7V93AV-41" target="aqwzPy4LWDTmCw7V93AV-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-41" value="作为人气表现代理" style="rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-41" value="As a popularity performance agent" style="rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="563.4000000000001" y="441.06510518934084" width="160" height="57.548246844319785" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aqwzPy4LWDTmCw7V93AV-43" target="aqwzPy4LWDTmCw7V93AV-41" edge="1">
