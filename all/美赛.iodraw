@@ -172,6 +172,12 @@
         <mxCell id="aqwzPy4LWDTmCw7V93AV-22" value="争议选手案例解释" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="-160" width="150" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-23" value="争议选手案例解释" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="-90" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aqwzPy4LWDTmCw7V93AV-15" target="aqwzPy4LWDTmCw7V93AV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
