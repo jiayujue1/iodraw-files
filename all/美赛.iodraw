@@ -186,17 +186,16 @@
         <mxCell id="aqwzPy4LWDTmCw7V93AV-23" value="bottom-two机制中&lt;div&gt;评委的最终裁决具有显著影响力&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;" parent="K3gMIF98tmqBrhOIvSpG-37" vertex="1">
           <mxGeometry y="60" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K3gMIF98tmqBrhOIvSpG-43" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aqwzPy4LWDTmCw7V93AV-22">
+        <mxCell id="K3gMIF98tmqBrhOIvSpG-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="K3gMIF98tmqBrhOIvSpG-37">
+          <mxGeometry width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="K3gMIF98tmqBrhOIvSpG-44" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aqwzPy4LWDTmCw7V93AV-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="-70" as="sourcePoint" />
-            <mxPoint x="410" y="-120" as="targetPoint" />
+            <mxPoint x="430" y="-160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="410" y="-70" />
-              <mxPoint x="360" y="-190" />
-              <mxPoint x="410" y="-130" />
-              <mxPoint x="350" y="-237" />
               <mxPoint x="360" y="-120" />
-              <mxPoint x="400" y="-237" />
             </Array>
           </mxGeometry>
         </mxCell>
