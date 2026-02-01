@@ -139,7 +139,7 @@
           <mxGeometry x="-140" y="60" width="400" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-3" value="裁判分标准化（Percent 形式）" style="rounded=0;whiteSpace=wrap;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-140" y="110" width="220" height="70" as="geometry" />
+          <mxGeometry x="-140" y="110" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
