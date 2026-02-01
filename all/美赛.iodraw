@@ -1,10 +1,10 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2390" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2187" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="K3gMIF98tmqBrhOIvSpG-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="K3gMIF98tmqBrhOIvSpG-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;container=0;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="-310" width="220" height="140" as="geometry" />
         </mxCell>
         <mxCell id="K3gMIF98tmqBrhOIvSpG-44" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aqwzPy4LWDTmCw7V93AV-23">
@@ -98,13 +98,13 @@
         <mxCell id="K3gMIF98tmqBrhOIvSpG-7" value="Difference Effect Index" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;fontStyle=1;container=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="646.0869565217391" width="200" height="54.78260869565217" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-22" value="Examples Explanation of Controversial Players" style="rounded=1;whiteSpace=wrap;html=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-22" value="Examples Explanation of Controversial Players" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="475" y="-310" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-23" value="&lt;div&gt;In the &quot;bottom-two&quot; mechanism&amp;nbsp;&lt;/div&gt;&lt;div&gt;The final decision of the judges has a significant influence.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-23" value="&lt;div&gt;In the &quot;bottom-two&quot; mechanism&amp;nbsp;&lt;/div&gt;&lt;div&gt;The final decision of the judges has a significant influence.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;textShadow=1;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="440" y="-250" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K3gMIF98tmqBrhOIvSpG-90" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="K3gMIF98tmqBrhOIvSpG-90" value="" style="group;container=0;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-210" y="-280.38" width="380" height="172.96097619928287" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-61" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;container=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
