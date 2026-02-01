@@ -82,7 +82,7 @@
         <mxCell id="sWwRbH17ub80MT2hTVKh-92" value="Rank&#xa;Combine" style="rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;whiteSpace=wrap;" parent="sWwRbH17ub80MT2hTVKh-88" vertex="1">
           <mxGeometry x="26.6" y="84.53882352941176" width="136.8" height="75.14764705882355" as="geometry" />
         </mxCell>
-        <mxCell id="sWwRbH17ub80MT2hTVKh-93" value="评委总分标准化" style="rounded=1;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" parent="sWwRbH17ub80MT2hTVKh-88" vertex="1">
+        <mxCell id="sWwRbH17ub80MT2hTVKh-93" value="" style="rounded=1;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" parent="sWwRbH17ub80MT2hTVKh-88" vertex="1">
           <mxGeometry x="22.8" y="197.2694117647059" width="144.4" height="75.14764705882355" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-94" value="vote_share_est" style="rounded=1;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;" parent="sWwRbH17ub80MT2hTVKh-88" vertex="1">
@@ -91,7 +91,7 @@
         <mxCell id="sWwRbH17ub80MT2hTVKh-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" parent="sWwRbH17ub80MT2hTVKh-88" source="sWwRbH17ub80MT2hTVKh-96" target="sWwRbH17ub80MT2hTVKh-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sWwRbH17ub80MT2hTVKh-96" value="观众端回归模型 " style="rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;whiteSpace=wrap;html=1;" parent="sWwRbH17ub80MT2hTVKh-88" vertex="1">
+        <mxCell id="sWwRbH17ub80MT2hTVKh-96" value="&lt;b&gt;&lt;span style=&quot;font-size:11.0pt;&lt;br/&gt;mso-bidi-font-size:12.0pt;line-height:115%;font-family:等线;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:minor-latin;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Percent&lt;br/&gt;Combine&lt;/span&gt;&lt;/b&gt;" style="rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;fillColor=none;whiteSpace=wrap;html=1;" parent="sWwRbH17ub80MT2hTVKh-88" vertex="1">
           <mxGeometry x="209.00000000000003" y="84.53882352941176" width="136.8" height="75.14764705882355" as="geometry" />
         </mxCell>
         <mxCell id="sWwRbH17ub80MT2hTVKh-97" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
