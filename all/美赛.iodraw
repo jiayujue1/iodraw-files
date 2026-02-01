@@ -57,7 +57,7 @@
           <mxGeometry x="641.7308829828462" y="5.59166666666664" width="558.2691170171539" height="17.741666666666667" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-36" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=15;labelBackgroundColor=default;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="641.7308829828462" y="190" width="558.2691170171539" height="349.99999999999994" as="geometry" />
+          <mxGeometry x="641.73" y="218.39" width="558.27" height="270" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-37" value="Dual-channel impact analysis &#xa;the impact of  various pro dancers、age、industry, etc" style="rounded=0;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;labelBackgroundColor=none;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="641.7308829828462" y="190" width="558.2691170171539" height="41.963109354413696" as="geometry" />
@@ -138,20 +138,6 @@
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-14" value="Playback simulation results : Consistency and fairness analysis" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;container=0;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480.1252861914053" y="440.0000000000002" width="150.38144928088536" height="84.29166666666667" as="geometry" />
-        </mxCell>
-        <mxCell id="Vv_ssk-G31S8iTD2KPEe-59" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="760" y="430" width="325.6700000000001" height="115.21130434782611" as="geometry" />
-        </mxCell>
-        <mxCell id="piS1895D4_8_JqlXhxi3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Vv_ssk-G31S8iTD2KPEe-59" source="K3gMIF98tmqBrhOIvSpG-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="236" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="K3gMIF98tmqBrhOIvSpG-7" value="Difference Effect Index" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;fontStyle=1;container=0;fontSize=15;" parent="Vv_ssk-G31S8iTD2KPEe-59" vertex="1">
-          <mxGeometry x="15.92251596059316" y="69.55913043478262" width="293.82585106165993" height="45.65217391304348" as="geometry" />
-        </mxCell>
-        <mxCell id="Vv_ssk-G31S8iTD2KPEe-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.686;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Vv_ssk-G31S8iTD2KPEe-59" source="K3gMIF98tmqBrhOIvSpG-7" target="K3gMIF98tmqBrhOIvSpG-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv_ssk-G31S8iTD2KPEe-61" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="-140.00302058049647" y="-93.33333333333331" width="632.2430205804965" height="308.3333333333333" as="geometry" />
