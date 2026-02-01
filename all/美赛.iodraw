@@ -138,11 +138,17 @@
         <mxCell id="aqwzPy4LWDTmCw7V93AV-2" value="约束反演" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-140" y="60" width="400" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aqwzPy4LWDTmCw7V93AV-3" value="裁判分标准化（Percent 形式）" style="rounded=0;whiteSpace=wrap;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-3" value="裁判分标准化（Percent 形式排名）" style="rounded=0;whiteSpace=wrap;fillColor=none;align=left;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-140" y="110" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aqwzPy4LWDTmCw7V93AV-4" value="排名合并（Rank 形式排名）" style="rounded=0;whiteSpace=wrap;fillColor=none;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-140" y="170" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aqwzPy4LWDTmCw7V93AV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aqwzPy4LWDTmCw7V93AV-3" target="aqwzPy4LWDTmCw7V93AV-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
